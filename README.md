@@ -11,7 +11,6 @@ The dashboard provides HR teams with insights that can support attendance monito
 ## Tools & Technologies
 
 - MySQL
-- SQL
 - Power BI
 - GitHub
 
@@ -69,7 +68,7 @@ The SQL queries include:
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard]()
+![HR Analytics Dashboard](https://github.com/gokul3114/hr-analytics-absenteeism-using-sql-and-powerbi/blob/main/powerbi/hr%20analytics%20dashboard.png)
 
 ---
 
@@ -97,16 +96,6 @@ HR-Analytics-Absenteeism/
 
 ---
 
-## Key Insights
-
-- Identified employees with healthy lifestyles based on BMI, smoking, and drinking habits.
-- Categorized employees into BMI groups for health analysis.
-- Analyzed absenteeism trends across different months and weekdays.
-- Compared absenteeism reasons to identify the most common causes.
-- Examined the relationship between workload and transportation expenses.
-
----
-
 ## Skills Demonstrated
 
 - SQL Joins
@@ -119,6 +108,34 @@ HR-Analytics-Absenteeism/
 - Business Intelligence
 
 ---
+
+## Key Findings
+
+- A total of **740 employees** were analyzed with **5,124 absenteeism hours** recorded.
+- Employees with healthy BMI levels, who were non-smokers and non-drinkers, generally had lower absenteeism than the overall average.
+- Seasonal trends showed variations in absenteeism, indicating that certain times of the year experienced higher absence rates.
+- Medical consultations and illnesses were among the most common reasons for employee absenteeism.
+- Employee demographics such as BMI, education, number of children, and pets provided additional insights into workforce characteristics.
+- Workload and transportation expenses showed varying patterns across employees, which may warrant further HR investigation.
+
+ 
+ ## Business Impact
+
+The dashboard can help HR departments to:
+
+- Monitor employee absenteeism trends.
+- Identify employees with healthier attendance patterns.
+- Understand the most common reasons for absence.
+- Support workforce planning and attendance improvement initiatives.
+- Enable data-driven HR decision-making through interactive visualizations.
+
+
+## Conclusion
+
+This project demonstrates how SQL and Power BI can be combined to transform raw HR data into meaningful business insights. Using SQL, the data was cleaned, categorized, and prepared for reporting. Power BI was then used to build an interactive dashboard that helps HR teams monitor absenteeism trends, employee health indicators, and workforce characteristics.
+
+The dashboard enables decision-makers to identify absenteeism patterns and supports data-driven workforce planning and employee wellness initiatives.
+
 
 ## Author
 
