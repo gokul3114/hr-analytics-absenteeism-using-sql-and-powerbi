@@ -122,8 +122,8 @@ HR-Analytics-Absenteeism/
 
 ## Author
 
-**Your Name**
+**GOKUL G**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/gokul3114
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/gokul-g-1a44952b3/
