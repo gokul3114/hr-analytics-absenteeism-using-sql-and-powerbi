@@ -124,6 +124,8 @@ HR-Analytics-Absenteeism/
 
 **GOKUL G**
 
-GitHub: https://github.com/gokul3114
+## Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/gokul-g-1a44952b3/
+[![GitHub](https://img.shields.io/badge/GitHub-gokul3114-181717?logo=github)](https://github.com/gokul3114)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gokul%20G-0A66C2?logo=linkedin)](https://www.linkedin.com/in/gokul-g-1a44952b3/)
